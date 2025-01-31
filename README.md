@@ -20,3 +20,5 @@ The readTemp() function calculates the temperature using the Steinhart-Hart equa
 This project demonstrates how to use a thermistor with an Arduino, apply temperature conversion equations, and display the results on an LCD, making it a useful tool for basic temperature sensing and monitoring applications.
 
 *OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/46cba176-390a-4bb2-abce-63f2b2453e07)
